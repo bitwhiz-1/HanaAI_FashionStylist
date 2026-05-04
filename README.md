@@ -1,17 +1,18 @@
 
-# NeuraChat - Book Summary Assistant 📚🤖
+# HanaAI - Fashion Stylist
 
-NeuraChat is an AI-powered book summary assistant chatbot that helps users get quick summaries of books by simply typing the title. It uses a backend server to process input and return AI-generated summaries.
+HANA is an AI-powered fashion stylist chatbot that helps users choose outfits and find matching products in real time. It uses a Large Language Model (LLaMA 3) along with APIs like Tavily for fashion trends and SerpAPI for product data. The system processes user queries, fetches real-time information, and generates personalized outfit recommendations along with purchasable product suggestions. It is built using Node.js, Express, and MongoDB Atlas, and demonstrates how AI can be integrated into real-world lifestyle applications
 
 ---
 
 ## 🚀 Features
 
-- 📖 AI-generated book summaries
+- 📖 Product suggestions with price
 - 💬 Chat-like interface with animated bot replies
 - ⚙️ Built with Node.js and TailwindCSS
-- 🧠 LLM-powered backend for intelligent responses
-- 🔒 Created by: **Mohd Azfar Khan (Reg No: 12300942)**
+- 🧠 LLM-powered backend for intelligent responses & Multi-API integration.
+- 📁 Session-based chat memory
+- 🔒 Created by: **Utooz Fatima (Reg No: 12406918)**
 
 ---
 
@@ -74,6 +75,6 @@ Open `index.html` in your browser or serve it using Live Server / localhost.
 
 ## 🧑‍💻 Created By
 
-**Mohd Azfar Khan**  
-Reg No: `12300942`  
+**Urooz Fatima**  
+Reg No: `12406918`  
 Lovely Professional University
